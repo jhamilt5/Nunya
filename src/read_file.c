@@ -1,5 +1,5 @@
 int main();
-int start() {
+int _start() {
     main();
     while(1) {}
     return 0;
